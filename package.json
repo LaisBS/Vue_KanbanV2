@@ -1,0 +1,15 @@
+{
+  "name": "vue-kanbanv2",
+  "version": "2.0.0",
+  "description": "kanban board and server",
+  "main": "index.js",
+  "repository": "git@github.com:LaisBS/Vue_KanbanV2.git",
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  },
+  "author": "LaisBS <96962027+LaisBS@users.noreply.github.com>",
+  "license": "MIT",
+  "private": true
+}
